@@ -1,6 +1,6 @@
 # QA Testing - Pruebas Web
 
-Repositorio de pruebas funcionales realizadas sobre una aplicación web.
+Proyecto de testing manual sobre una aplicación web real, incluyendo diseño de casos de prueba, detección de errores y validación de funcionalidades.
 
 ## Contenido
 - Test cases
@@ -10,3 +10,6 @@ Repositorio de pruebas funcionales realizadas sobre una aplicación web.
 ## Tecnologías
 - Testing manual
 - Validación funcional
+
+  
+## Aplicación testada https://lorena-python.github.io/Tu-maskota-web/
