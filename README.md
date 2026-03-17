@@ -1,2 +1,12 @@
-# Qa-testing-pruebas
-Documentación de pruebas funcionales, casos de prueba y verificación de aplicaciones web realizado como práctica de QA testing.
+# QA Testing - Pruebas Web
+
+Repositorio de pruebas funcionales realizadas sobre una aplicación web.
+
+## Contenido
+- Test cases
+- Reporte de bugs
+- Checklist de testing
+
+## Tecnologías
+- Testing manual
+- Validación funcional
